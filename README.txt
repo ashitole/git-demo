@@ -2,14 +2,5 @@
 
 This is the first file in this repo.
 
-##IPsum Below
-
-Modifying file
-
-##IPsum Below
-
-Modifying file2
-
-##IPsum Below
-
-Modifying file3
+#Taking out all changes and keeping only 1 change
+change 1
